@@ -95,7 +95,11 @@ pip install -r requirements.txt
 - Juan Manuel Sánchez Restrepo
 
 ## Referencias
-[Las referencias se agregarán durante el desarrollo]
+- Dalal, N., & Triggs, B. (2005). *Histograms of oriented gradients for human detection*. CVPR.  
+- Ojala, T., Pietikäinen, M., & Mäenpää, T. (2002). *Multiresolution gray-scale and rotation invariant texture classification with local binary patterns*. IEEE TPAMI.  
+- Haralick, R. M. (1973). *Textural features for image classification*. IEEE TSMC.  
+- He, K., Zhang, X., Ren, S., & Sun, J. (2016). *Deep residual learning for image recognition*. CVPR.  
+- Pizer, S. et al. (1987). *Adaptive histogram equalization and its variations*. CVGIP.
 
 ---
 **Curso**: Computer Vision - Maestría  
