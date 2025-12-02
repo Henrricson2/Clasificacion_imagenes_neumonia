@@ -37,6 +37,11 @@ proyecto_clasificacion_neumonia/
 
 ## Cómo ejecutar el proyecto
 
+## 1.1 Crear entorno virtual 
+
+python3 -m venv venv
+source venv/bin/activate
+
 ### 1. Instalación de dependencias
 ```bash
 pip install -r requirements.txt
@@ -50,6 +55,7 @@ pip install -r requirements.txt
 1. **Análisis exploratorio**: `notebooks/01_exploratory_analysis.ipynb`
 2. **Extracción de características**: `notebooks/02_feature_extraction.ipynb`
 3. **Clasificación**: `notebooks/03_classification.ipynb`
+
 
 ## Metodología
 
