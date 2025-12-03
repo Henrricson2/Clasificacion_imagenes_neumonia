@@ -215,3 +215,5 @@ El proyecto utilizó un dataset público de radiografías de tórax, compuesto p
 - **Sebastián Palacio Betancur:** implementación de Transfer Learning con ResNet, evaluación de modelos de deep learning y comparación con modelos tradicionales.
 
 > Todos los integrantes participaron activamente en la discusión de resultados, redacción del informe final y revisión del contenido técnico.
+
+
